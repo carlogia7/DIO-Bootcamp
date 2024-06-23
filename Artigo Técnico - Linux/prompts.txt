@@ -1,0 +1,13 @@
+## ChatGPT
+
+> crie 10 headlines para nomes de artigos técnicos sobre o assunto "linux basic commands every one should know"
+
+> Sobre alguns comandos básicos do linux tais como: ls, pwd, cd, cp, mv, etc crie um artigo técnico em linguagem .md
+
+## Designer
+
+> Quero uma capa para um artigo técnico (Orientação: Paisagem e Largura = 1200px e Altura = 320px, ou seja, formato Banner) 
+o título do artigo técnico deve ficar mais a direita da capa e deve ser exatamente "Aprendendo Linux: Comandos Básicos que Vão 
+Facilitar Sua Vida", o resto do background da imagem deve ser um gradiente mesclando as cores básicas da logo do linux (o pinguim) e 
+a esquerda do título deve ter uma logo diferente pode ser um estilo diferente porém a logo deve ter a ver com o linux em si (o pinguim) e 
+a comandos (pode ter um pequeno terminal, me surpreenda!)
