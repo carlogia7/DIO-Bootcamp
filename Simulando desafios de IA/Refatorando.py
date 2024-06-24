@@ -20,7 +20,7 @@ def processar_entrada(texto):
         # Chama a função correspondente ao texto e retorna o resultado
         return opcoes[texto](texto)
     else:
-        return "Opção inválida"
+        return "Opção inválida."
 
 def desafio():
     entrada = input()
